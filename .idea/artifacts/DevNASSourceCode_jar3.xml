@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DevNASSourceCode:jar3">
+    <output-path>$PROJECT_DIR$/out/artifacts/DevNASSourceCode_jar3</output-path>
+    <root id="archive" name="DevNASSourceCode.jar">
+      <element id="module-output" name="DevNASSourceCode" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../BaiduNetdiskDownload/MavenRepository/MavenRepository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../BaiduNetdiskDownload/MavenRepository/MavenRepository/com/davidehrmann/vcdiff/vcdiff-core/0.1.1/vcdiff-core-0.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../BaiduNetdiskDownload/MavenRepository/MavenRepository/commons-io/commons-io/2.6/commons-io-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../BaiduNetdiskDownload/MavenRepository/MavenRepository/log4j/log4j/1.2.16/log4j-1.2.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../BaiduNetdiskDownload/MavenRepository/MavenRepository/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../BaiduNetdiskDownload/MavenRepository/MavenRepository/net/dongliu/vcdiff/jvcdiff/1.1/jvcdiff-1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
